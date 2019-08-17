@@ -1,3 +1,4 @@
+I have leveraged on the data science workflow OSEMN (Obtain, Scrub, Model, Explore, and Interpret) as the basis of this project.
 
 # Making Sense of Houses Sale Price in King County
 
